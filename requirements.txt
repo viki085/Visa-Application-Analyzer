@@ -22,4 +22,5 @@ uvicorn
 jinja2
 python-multipart
 ipykernel
+python-dotenv
 -e .
